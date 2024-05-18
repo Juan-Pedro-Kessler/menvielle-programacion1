@@ -11,5 +11,6 @@ int main()
         cout << "el resultado de " << rt << "x" << a << " es igual a= " << rt * a << endl;
     }
     cout << "programa finalizado..." << endl;
+    return 0;
 }
 
