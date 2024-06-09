@@ -11,10 +11,7 @@ int suma(int c, int arre[]) {
 }
 
 int main() {
-    int a;
-    cout << "Introduce el tamaño del arreglo: ";
-    cin >> a;
-
+    const int a=5;
     int arreglo[a];
     cout << "Introduce los elementos del arreglo: ";
     for (int b = 0; b < a; b++) {
